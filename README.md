@@ -13,19 +13,9 @@ Soy desarrollador de software y profesor con experiencia en HTML, CSS, JavaScrip
 
 ---
 
-## 🚀 Proyectos Destacados
-
-Aquí tienes una selección de mis proyectos más relevantes. Cada uno está vinculado a su repositorio individual para que puedas explorarlo en detalle.
-
-1. **[Gestor de Tareas en JavaScript](URL del repositorio)** - Una aplicación web para organizar tareas diarias, con una interfaz interactiva y moderna, desarrollada con JavaScript, HTML y CSS.
-2. **[Sistema de Inventario en PL/SQL](URL del repositorio)** - Un sistema de gestión de inventario construido con PL/SQL, optimizado para consultas rápidas y un alto rendimiento.
-3. **[Portfolio Educativo](URL del repositorio)** - Un conjunto de ejercicios y ejemplos de código diseñados para enseñar conceptos de programación a estudiantes principiantes.
-
----
-
 ## 💼 Experiencia y Logros
 
-- **Profesor de Programación**: Enseñando HTML, CSS, SASS, LESS, JavaScript y TypeScript en un entorno académico, desarrollando contenido didáctico y proyectos para estudiantes.
+- **Profesor de FP en DAW**: Enseñando HTML, CSS, SASS, LESS, JavaScript, TypeScript y frameworks con Angular, React, Flux y Redux en un entorno académico, desarrollando contenido didáctico y proyectos para estudiantes.
 - **Desarrollador en Grupo Oesía**: Experiencia en proyectos de desarrollo de software y bases de datos, aplicando habilidades técnicas en un entorno profesional para resolver problemas complejos.
 - **Certificaciones**:
   **Grado en ingenieria telemática**: Ingeniería Telemática - Universidad Politécnica de Cartagena, 2023
@@ -41,7 +31,6 @@ Aquí tienes una selección de mis proyectos más relevantes. Cada uno está vin
 
 Puedes encontrarme y conocer más sobre mi perfil en:
 - LinkedIn: Javier Ortiz Lorente (https://www.linkedin.com/in/javier-ortiz-lorente/)
-- Portafolio Personal: 
 - Email: javier.ortiz.lorente@gmail.com
 
 ---
