@@ -41,8 +41,8 @@ Aquí tienes una selección de mis proyectos más relevantes. Cada uno está vin
 
 Puedes encontrarme y conocer más sobre mi perfil en:
 - LinkedIn: Javier Ortiz Lorente (https://www.linkedin.com/in/javier-ortiz-lorente/)
-- Portafolio Personal: [Tu Web](https://tuportafolio.com)
-- Email: tuemail@ejemplo.com
+- Portafolio Personal: 
+- Email: javier.ortiz.lorente@gmail.com
 
 ---
 
